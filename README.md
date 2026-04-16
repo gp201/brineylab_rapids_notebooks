@@ -2,6 +2,10 @@
 
 RAPIDS notebooks image extended for use with JupyterHub on CoreWeave, with `marimo`, `tmux`, and `tini` added on top.
 
+
+> [!TIP]   
+> To test this image pull from [`gp201/rapids_notebook:2026_05_16`](https://hub.docker.com/repository/docker/gp201/rapids_notebook/tags)
+
 ## Base image
 
 `nvcr.io/nvidia/rapidsai/notebooks:26.04-cuda13-py3.14`
