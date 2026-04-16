@@ -1,6 +1,6 @@
-# RAPIDS Notebooks (CoreWeave)
+# RAPIDS Notebooks
 
-RAPIDS notebooks image extended for use with JupyterHub on CoreWeave, with `marimo`, `tmux`, and `tini` added on top.
+RAPIDS notebooks image extended for use with JupyterHub, with `marimo`, `tmux`, and `tini` added on top.
 
 
 > [!TIP]   
